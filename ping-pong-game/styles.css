@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(90deg,rgb(221, 28, 28),rgb(0, 0, 0),rgb(32, 32, 183));
+}
+
+#rod-top{
+    height: 15px;
+    width: 100px;
+    background-color:cyan;
+    border: 2px solid rgb(77, 112, 116);
+    position: absolute;
+    text-align: center;
+    padding-bottom:2px ;
+    border-radius: 20px;
+    color: rgb(181, 141, 37);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0px;
+}
+
+#rod-bottom{
+    height: 15px;
+    width: 100px;
+    background-color:cyan;
+    border: 2px solid rgb(77, 112, 116);
+    border-radius: 20px;
+    position: absolute;
+    top: 96.5%;
+    margin-bottom: 0px;
+    padding-bottom: 2px;
+    text-align: center;
+    color: rgb(181, 141, 37);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#ball{
+    position:absolute;
+    height: 17px;
+    width: 15px;
+    background-color: cyan;
+    border-radius: 50%;
+    left:105px;
+    bottom: 400px;
+    
+}
+
